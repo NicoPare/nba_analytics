@@ -1,0 +1,4 @@
+{
+    "boxscore": "https://cdn.nba.com/static/json/liveData/boxscore/boxscore_{key}.json",
+    "play_by_play": "https://cdn.nba.com/static/json/liveData/playbyplay/playbyplay_{key}.json"
+}
